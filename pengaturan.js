@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "bubble",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBA7Oq1W-ok62pNegL5zIQDKz8lg0bTnEA",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
